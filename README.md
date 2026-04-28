@@ -1,6 +1,6 @@
 # 🏠 CasaOS-test
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![JMeter](https://img.shields.io/badge/JMeter-5.6+-orange)](https://jmeter.apache.org/)
 [![Standard](https://img.shields.io/badge/ISO-IEC%2FIEEE%2029119%3A2021-green)](https://www.iso.org/standard/74517.html)
 
